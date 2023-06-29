@@ -1,0 +1,26 @@
+.carousel-caption {
+    color: rgb(245, 33, 132);
+}
+
+.card-item {
+    width: 100% !important;
+    margin: 10px auto;
+}
+
+@media screen and (max-width:500px) {
+    .card-item {
+        width: unset !important;
+        margin: 10px auto;
+    }
+}
+
+.alert-primary p {
+    text-align: center;
+    line-height: 12px;
+    margin: 0px;
+}
+
+.alert-primary {
+    margin: 40px auto 0 auto;
+}
+

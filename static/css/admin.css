@@ -1,0 +1,53 @@
+div{
+    border:solid 1px;
+}
+ 
+button{
+    width:70px;
+    height:30px;
+}
+ 
+.mytitle{
+    font-size:26px;
+    padding-top:20px;
+}
+ 
+.myhr{
+    margin-top:0px;
+}
+ 
+.myright{
+    float:right;
+}
+ 
+.mybtn{
+    width:100px;
+}
+ 
+.mybtn2{
+    width:120px;
+}
+ 
+.myprogress{
+    
+    margin-top:10px;
+}
+ 
+.mynavi{
+    height:700px;
+    background-color:lightgray;
+    padding-top:20px;
+}
+ 
+.mynavi0{
+    height:100%;
+    margin-top:-20px;
+    background-color:lightgray;
+}
+.mynavitop{
+    padding-bottom:0px;
+    background-color:black;
+}
+.myblack{
+    background-color:#1C1C1C;
+}
